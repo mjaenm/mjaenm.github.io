@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mjaenm.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mjaenm.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjaenm.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,23 +18,48 @@
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://mjaenm.github.io/teaching/compevo2/</loc>
+    <lastmod>2019-01-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/project/optimization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://mjaenm.github.io/teaching/</loc>
+    <lastmod>2019-01-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://mjaenm.github.io/tag/computational-finance-applications/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/research/finance/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/research/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mjaenm.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/teaching/compevo1/</loc>
+    <lastmod>2018-01-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/research/optimization/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,7 +113,12 @@
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/project/particlefiltering/</loc>
+    <loc>https://mjaenm.github.io/teaching/algoritmos/</loc>
+    <lastmod>2015-08-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/research/particlefiltering/</loc>
     <lastmod>2013-07-27T00:00:00+00:00</lastmod>
   </url>
   

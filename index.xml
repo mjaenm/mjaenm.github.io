@@ -5,32 +5,12 @@
     <link>https://mjaenm.github.io/</link>
       <atom:link href="https://mjaenm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mario Ivan Jaen / Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjaenm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Mario Ivan Jaen / Homepage</title>
       <link>https://mjaenm.github.io/</link>
     </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://mjaenm.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://mjaenm.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Slides</title>
@@ -162,10 +142,59 @@ Three
     </item>
     
     <item>
+      <title>Clave 0664 - Cómputo Evolutivo/Algoritmos Genéticos. Semestre 2019-2</title>
+      <link>https://mjaenm.github.io/teaching/compevo2/</link>
+      <pubDate>Tue, 01 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/teaching/compevo2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R&amp;D applications in quantitative finance, trading and financial markets</title>
+      <link>https://mjaenm.github.io/research/finance/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/research/finance/</guid>
+      <description>&lt;p&gt;We tackled a ​portfolio compression problem, which consisted of: given a fixed set of deals with a specific sensitivity (delta) value, to find the smallest basket of deals with the same delta from a big pool of internal live trades. The external version of this problem (trades agreed between a network of banks) was solved using a vendor solution (TriOptima). Under our own initiative we modeled this problem and it turned out that it resembles the ​subset-sum problem family, which is known to be NP-complete. We applied a tailored optimization method found in the computational finance literature to get an approximate solution&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clave 0664 - Cómputo Evolutivo/Algoritmos Genéticos. Semestre 2018-2</title>
+      <link>https://mjaenm.github.io/teaching/compevo1/</link>
+      <pubDate>Mon, 01 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/teaching/compevo1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fundamental research in Information Geometry Optimization and Estimation of Distribution Algorithms</title>
-      <link>https://mjaenm.github.io/project/optimization/</link>
+      <link>https://mjaenm.github.io/research/optimization/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mjaenm.github.io/project/optimization/</guid>
+      <guid>https://mjaenm.github.io/research/optimization/</guid>
       <description>&lt;p&gt;Working with ​Prof. Arturo Hernandez and Prof. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information
 Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.&lt;/p&gt;
 </description>
@@ -266,10 +295,30 @@ Geometry (IG) framework. Our goal was to introduce a novel global optimization a
     </item>
     
     <item>
+      <title>Programacion y Algoritmos. Fall 2015</title>
+      <link>https://mjaenm.github.io/teaching/algoritmos/</link>
+      <pubDate>Sat, 01 Aug 2015 13:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/teaching/algoritmos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Research in Metaheuristic Optimization and Particle Filtering methods; applications in computational chemistry and computer vision</title>
-      <link>https://mjaenm.github.io/project/particlefiltering/</link>
+      <link>https://mjaenm.github.io/research/particlefiltering/</link>
       <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mjaenm.github.io/project/particlefiltering/</guid>
+      <guid>https://mjaenm.github.io/research/particlefiltering/</guid>
       <description>&lt;p&gt;In my honors thesis I studied the main principles behind evolutionary algorithms and in particular, metaheuristics such as Particle Swarm Optimization. The purpose of this research was to develop hybrid approaches together with the particle filter method (PF) applied to the video object tracking problem&lt;/p&gt;
 </description>
     </item>
