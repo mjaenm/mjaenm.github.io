@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mjaenm.github.io/</loc>
+    <loc>https://mjaenm.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/talk/example/</loc>
+    <loc>https://mjaenm.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://mjaenm.github.io/project/example/</loc>
+    <loc>https://mjaenm.github.io/project/optimization/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://mjaenm.github.io/project/particlefiltering/</loc>
+    <lastmod>2013-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mjaenm.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +125,10 @@
   <url>
     <loc></loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjaenm.github.io/slides/particlefiltering_slides/</loc>
   </url>
   
 </urlset>

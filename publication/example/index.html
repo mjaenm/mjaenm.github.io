@@ -27,7 +27,7 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Mario Iván Jaen">
 
   
   
@@ -240,11 +240,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.2da9fc7ecccb62374ee4667dc6583d14.css">
+  <link rel="stylesheet" href="/css/wowchemy.min.1c55e0a47f7e1b9753c5a31f7b7f455d.css">
 
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126207546-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-126207546-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -275,9 +313,12 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="twitter:site" content="@mjaenm">
+  <meta property="twitter:creator" content="@mjaenm">
+  
+  <meta property="og:site_name" content="Mario Ivan Jaen / Homepage">
   <meta property="og:url" content="https://mjaenm.github.io/publication/example/">
-  <meta property="og:title" content="An example conference paper | Academic">
+  <meta property="og:title" content="An example conference paper | Mario Ivan Jaen / Homepage">
   <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."><meta property="og:image" content="https://mjaenm.github.io/publication/example/featured.jpg">
   <meta property="twitter:image" content="https://mjaenm.github.io/publication/example/featured.jpg"><meta property="og:locale" content="en-us">
   
@@ -319,12 +360,12 @@
   
   "author": {
     "@type": "Person",
-    "name": "Nelson Bighetti"
+    "name": "Mario Iván Jaen"
   },
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "Mario Ivan Jaen / Homepage",
     "logo": {
       "@type": "ImageObject",
       "url": "https://mjaenm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
@@ -348,7 +389,7 @@
 
 
 
-  <title>An example conference paper | Academic</title>
+  <title>An example conference paper | Mario Ivan Jaen / Homepage</title>
 
 </head>
 
@@ -413,7 +454,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Mario Ivan Jaen / Homepage</a>
     </div>
     
 
@@ -426,13 +467,13 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Mario Ivan Jaen / Homepage</a>
     </div>
     
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -506,7 +547,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#research"><span>Research</span></a>
         </li>
 
         
@@ -543,7 +584,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -580,44 +621,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#Industry"><span>Industry</span></a>
         </li>
 
         
@@ -761,7 +765,7 @@
     
 
   <span >
-      Nelson Bighetti</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Mario Iván Jaen</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Robert Ford</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>
   </div>
   
@@ -841,9 +845,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/example/">
-    Project
-  </a>
+    
   
 
 
@@ -1049,12 +1051,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://mjaenm.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti"></a>
+      <a href="https://mjaenm.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Mario Iván Jaen"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://mjaenm.github.io/">Nelson Bighetti</a></h5>
-      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <h5 class="card-title"><a href="https://mjaenm.github.io/">Mario Iván Jaen</a></h5>
+      <h6 class="card-subtitle">Computer Scientist</h6>
       <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
       <ul class="network-icon" aria-hidden="true">
   
@@ -1070,24 +1072,7 @@
       
     
     <li>
-      <a href="/#contact" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+      <a href="https://twitter.com/mjaenm" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
@@ -1104,24 +1089,7 @@
       
     
     <li>
-      <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
-        <i class="fas fa-graduation-cap"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
+      <a href="https://github.com/mjaenm" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
       </a>
     </li>
@@ -1138,8 +1106,23 @@
       
     
     <li>
-      <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/mjaenm/" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/media/mjaenm_CV.pdf" >
+        <i class="ai ai-cv"></i>
       </a>
     </li>
   

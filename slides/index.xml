@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slides | Academic</title>
+    <title>Slides | Mario Ivan Jaen / Homepage</title>
     <link>https://mjaenm.github.io/slides/</link>
       <atom:link href="https://mjaenm.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
@@ -133,6 +133,14 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mjaenm.github.io/slides/particlefiltering_slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/slides/particlefiltering_slides/</guid>
+      <description></description>
     </item>
     
   </channel>
