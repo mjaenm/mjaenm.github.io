@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Geometry | Mario Ivan Jaen / Homepage</title>
+    <link>https://mjaenm.github.io/tag/information-geometry/</link>
+      <atom:link href="https://mjaenm.github.io/tag/information-geometry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Geometry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjaenm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Information Geometry</title>
+      <link>https://mjaenm.github.io/tag/information-geometry/</link>
+    </image>
+    
+    <item>
+      <title>Fundamental research in Information Geometry Optimization and Estimation of Distribution Algorithms</title>
+      <link>https://mjaenm.github.io/research/optimization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/research/optimization/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;Working with ​Prof. Arturo Hernandez and Prof. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information
+Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.&lt;/p&gt;
+&lt;h2 id=&#34;research-output&#34;&gt;Research output:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Research stay in the Computational Intelligence Group at Robert Gordon University, UK.&lt;/li&gt;
+&lt;li&gt;Graduated of the CIMAT CS MS program with the thesis &lt;a href=&#34;https://cimat.repositorioinstitucional.mx/jspui/handle/1008/484&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Univariate Boltzmann based Estimation of Distribution Algorithm Using the Natural
+Gradient for Updating the Parameters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

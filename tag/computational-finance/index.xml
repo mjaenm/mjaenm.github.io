@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational finance | Mario Ivan Jaen / Homepage</title>
+    <link>https://mjaenm.github.io/tag/computational-finance/</link>
+      <atom:link href="https://mjaenm.github.io/tag/computational-finance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational finance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjaenm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational finance</title>
+      <link>https://mjaenm.github.io/tag/computational-finance/</link>
+    </image>
+    
+    <item>
+      <title>R&amp;D applications in quantitative finance, trading and financial markets</title>
+      <link>https://mjaenm.github.io/research/finance/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjaenm.github.io/research/finance/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;We tackled a ​portfolio compression problem, which consisted of: given a fixed set of deals with a specific sensitivity (delta) value, to find the smallest basket of deals with the same delta from a big pool of internal live trades. The external version of this problem (trades agreed between a network of banks) was solved using a vendor solution (TriOptima). Under our own initiative we modeled this problem and it turned out that it resembles the ​subset-sum problem family, which is known to be NP-complete. We applied a tailored optimization method found in the computational finance literature to get an approximate solution&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
