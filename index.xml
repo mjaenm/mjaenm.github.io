@@ -197,8 +197,7 @@ Three
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://mjaenm.github.io/research/optimization/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
-&lt;p&gt;Working with ​Prof. Arturo Hernandez and Prof. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information
-Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.&lt;/p&gt;
+&lt;p&gt;Working with Dr. Arturo Hernandez and Dr. John McCall in black-box optimization methods. I analyzed population based algorithms that employ probabilistic models to guide the search process and that are built upon the Information Geometry (IG) framework. Our goal was to introduce a novel global optimization algorithm.&lt;/p&gt;
 &lt;h2 id=&#34;research-output&#34;&gt;Research output:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Research stay in the Computational Intelligence Group at Robert Gordon University, UK.&lt;/li&gt;
@@ -328,7 +327,7 @@ Gradient for Updating the Parameters&lt;/a&gt;&lt;/li&gt;
       <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://mjaenm.github.io/research/particlefiltering/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
-&lt;p&gt;In my honors thesis I studied the main principles behind evolutionary algorithms and in particular, metaheuristics such as Particle Swarm Optimization. The purpose of this research was to develop hybrid approaches together with the particle filter method (PF) applied to the video object tracking problem.&lt;/p&gt;
+&lt;p&gt;In my BS thesis I studied the main principles behind evolutionary algorithms and in particular, metaheuristics such as Particle Swarm Optimization. The purpose of this research was to develop hybrid approaches together with the particle filter method (PF) applied to the video object tracking problem.&lt;/p&gt;
 &lt;p&gt;We developed a color-based observation model and a linear transition model to use it in the canonical PF. Then a dynamic optimization step was combined with the PF to enhance the state estimation over time. Our appoach showed competitive performance w.r.t particle filters on complex benchmarks used in literature.&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vh-52Q7FtCA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6fkjifJtDgU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
